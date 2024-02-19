@@ -49,7 +49,7 @@ Imagine yourself as Peter Pandey and perform the following task to keep up the t
   
 
 # Learning from this Project
--  
+- Learnt, how   
 
 
 
