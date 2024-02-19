@@ -45,8 +45,7 @@ Imagine yourself as Peter Pandey and perform the following task to keep up the t
 -  However, the analysis highlights a notable trend: during the Sankarnti festival, there was a considerable surge in Incremental Sold Units (ISU), contributing significantly more to the overall Incremental business with an additional 334K units, marking a substantial growth of 338.42%. In contrast, during Diwali, the Incremental Sold Units totaled 108K units, representing 97.49% of the overall incremental business.
 -  After closely examining the promotional activities during these two campaigns, it's clear that the "500 Cashback" and "BOGOF" (Buy One Get One Free) promotions truly stood out, driving an impressive 93% increase, totaling 192 million in incremental revenue for the overall business. Following closely behind were the discount promotions offering 33% Off and 55% Off. However, it's noteworthy that the 25% Off discount promotion had a negative impact on incremental business.  
 -  Furthermore, it's worth highlighting that the average quantity sold per event before the promotion was 139 units, which significantly surged to 434 units per event post-promotion. Similarly, the average revenue per event before the promotion stood at 94K, but experienced a substantial increase to 232K after the promotion was implemented.
--  It's also noteworthy that substantial incremental revenue growth has been observed in the Combo1 and Grocery & Staples product categories. Following closely behind are the Home Appliances, Home Care, and Personal Care categories in terms of incremental revenue increase.
-  
+-  It's important to note the considerable rise in sales observed in the Combo1, Home Appliances, and Home Care product categories. Following closely behind are the Grocery & Staples and Personal Care categories in terms of their sales levels before the promotion was initiated.  
 
 # Learning from this Project
 - Learnt, how   
