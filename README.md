@@ -48,7 +48,7 @@ Imagine yourself as Peter Pandey and perform the following task to keep up the t
 -  It's important to note the considerable rise in sales observed in the Combo1, Home Appliances, and Home Care product categories. Following closely behind are the Grocery & Staples and Personal Care categories in terms of their sales levels before the promotion was initiated.  
 
 # Learning from this Project
-- Learnt, how   
+- Learnt, how 
 
 
 
