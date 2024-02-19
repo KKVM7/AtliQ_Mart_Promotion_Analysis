@@ -39,12 +39,17 @@ Imagine yourself as Peter Pandey and perform the following task to keep up the t
 - In this view, we'll obtain detailed performance insights for individual products and product categories both before and after promotional activities, including the incremental business generated during the campaign.
 <img width="578" alt="image" src="https://github.com/KKVM7/AtliQ_Mart_Promotion_Analysis/assets/150903761/20ed7d86-b0cb-4f73-ba5a-88413aee3a71">
 
-# Important Insights  from the Dashboard
-
-
+# Important Insights from the Dashboard
+-  During the festival season, AtliQ Mart saw a significant uptick in overall Incremental Revenue (IR), soaring by 147% to reach a total of 207 million compared to previous sales prior to the promotional campaign. Moreover, Incremental Sold Units (ISU) surged by 211.28%, representing an increase of 442K units from pre-promotion sales levels, as a result of the conducted promotional activities.
+-  Further analysis underscores the superior performance of the Diwali campaign over the Sankarnti campaign, with a notable Incremental Revenue increase of 125 million, equating to 151.24% growth. In contrast, the Sankarnti campaign yielded an Incremental Revenue of 82 million, accounting for 141.55% of the overall incremental business.
+-  However, the analysis highlights a notable trend: during the Sankarnti festival, there was a considerable surge in Incremental Sold Units (ISU), contributing significantly more to the overall Incremental business with an additional 334K units, marking a substantial growth of 338.42%. In contrast, during Diwali, the Incremental Sold Units totaled 108K units, representing 97.49% of the overall incremental business.
+-  After closely examining the promotional activities during these two campaigns, it's clear that the "500 Cashback" and "BOGOF" (Buy One Get One Free) promotions truly stood out, driving an impressive 93% increase, totaling 192 million in incremental revenue for the overall business. Following closely behind were the discount promotions offering 33% Off and 55% Off. However, it's noteworthy that the 25% Off discount promotion had a negative impact on incremental business.  
+-  Furthermore, it's worth noting that the average quantity sold per event before the promotion was 139 units, a figure that significantly surged to 434 units per event post-promotion. Similarly, the average revenue per event before the promotion stood at 94K, but experienced a substantial increase to 232K after the promotion was implemented.
+-  It's also noteworthy that substantial incremental revenue growth has been observed in the Combo1 and Grocery & Staples product categories. Following closely behind are the Home Appliances, Home Care, and Personal Care categories in terms of incremental revenue increase.
+  
 
 # Learning from this Project
-  -  
+-  
 
 
 
