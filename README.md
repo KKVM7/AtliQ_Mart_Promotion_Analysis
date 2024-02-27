@@ -3,7 +3,7 @@ This is Resume challenge project provided by Codebasis team. In this project, we
 
 - Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 - Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDg1ZDUzYmEtOTVkMi00NDhmLWI3OGQtZWFmOWQwYmE2NzYyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0a758fb1b5276843b708)
-- Link to [Presentation Video]()
+- Link to [Presentation Video](https://youtu.be/tzrz8e8ak1o)
 
 # Problem Statement
 **AtliQ Mart** is a retail gaint with over 50 supermarts in the southern region of India.All their 50 stores ran a massive promotion during the Diwali 2023 and Sankarnti 2024 (Festive time in India) on their AltiQ branded products.Sales Director **Mr. Bruce Haryali** want to understand which promotions did well and which did not so they can make the informed decisions for their next promotional period.
